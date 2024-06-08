@@ -1,0 +1,14 @@
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\bin\Debug\net8.0\3_Operaciones.exe
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\bin\Debug\net8.0\3_Operaciones.deps.json
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\bin\Debug\net8.0\3_Operaciones.runtimeconfig.json
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\bin\Debug\net8.0\3_Operaciones.dll
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\bin\Debug\net8.0\3_Operaciones.pdb
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\3_Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\3_Operaciones.AssemblyInfoInputs.cache
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\3_Operaciones.AssemblyInfo.cs
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\3_Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\3_Operaciones.dll
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\refint\3_Operaciones.dll
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\3_Operaciones.pdb
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\3_Operaciones.genruntimeconfig.cache
+C:\Users\Felix Oscar\source\repos\3_Operaciones\3_Operaciones\obj\Debug\net8.0\ref\3_Operaciones.dll

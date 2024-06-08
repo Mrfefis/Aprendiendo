@@ -1,0 +1,14 @@
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\bin\Debug\net8.0\2_TiposDeDatos.exe
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\bin\Debug\net8.0\2_TiposDeDatos.deps.json
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\bin\Debug\net8.0\2_TiposDeDatos.runtimeconfig.json
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\bin\Debug\net8.0\2_TiposDeDatos.dll
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\bin\Debug\net8.0\2_TiposDeDatos.pdb
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\2_TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\2_TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\2_TiposDeDatos.AssemblyInfo.cs
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\2_TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\2_TiposDeDatos.dll
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\refint\2_TiposDeDatos.dll
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\2_TiposDeDatos.pdb
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\2_TiposDeDatos.genruntimeconfig.cache
+C:\Users\Felix Oscar\source\repos\2_TiposDeDatos\2_TiposDeDatos\obj\Debug\net8.0\ref\2_TiposDeDatos.dll
