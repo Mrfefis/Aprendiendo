@@ -1,0 +1,14 @@
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\bin\Debug\net8.0\4_EstructuraDeControl.exe
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\bin\Debug\net8.0\4_EstructuraDeControl.deps.json
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\bin\Debug\net8.0\4_EstructuraDeControl.runtimeconfig.json
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\bin\Debug\net8.0\4_EstructuraDeControl.dll
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\bin\Debug\net8.0\4_EstructuraDeControl.pdb
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\4_EstructuraDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\4_EstructuraDeControl.AssemblyInfoInputs.cache
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\4_EstructuraDeControl.AssemblyInfo.cs
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\4_EstructuraDeControl.csproj.CoreCompileInputs.cache
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\4_EstructuraDeControl.dll
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\refint\4_EstructuraDeControl.dll
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\4_EstructuraDeControl.pdb
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\4_EstructuraDeControl.genruntimeconfig.cache
+C:\Users\Felix Oscar\source\repos\4_EstructuraDeControl\obj\Debug\net8.0\ref\4_EstructuraDeControl.dll

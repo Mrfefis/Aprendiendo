@@ -1,0 +1,15 @@
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\bin\Debug\net8.0\5_Arrays.exe
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\bin\Debug\net8.0\5_Arrays.deps.json
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\bin\Debug\net8.0\5_Arrays.runtimeconfig.json
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\bin\Debug\net8.0\5_Arrays.dll
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\bin\Debug\net8.0\5_Arrays.pdb
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\5_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\5_Arrays.AssemblyInfoInputs.cache
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\5_Arrays.AssemblyInfo.cs
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\5_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\5_Arrays.sourcelink.json
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\5_Arrays.dll
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\refint\5_Arrays.dll
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\5_Arrays.pdb
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\5_Arrays.genruntimeconfig.cache
+C:\Users\Felix Oscar\OneDrive\Aprendiendo\5_Arrays\obj\Debug\net8.0\ref\5_Arrays.dll
